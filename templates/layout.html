@@ -59,12 +59,11 @@
           <ul class="nav navbar-nav">
             <li {% if this._path == '/' %} class="nav-item active" {% else %} class="nav-item" {% endif %}><a class="nav-link" href="{{ '/'|url }}">About</a></li>
               {% for href, title in [
-                ['/blog', 'Blog'],
                 ['/materials', '教材 / Materials'],
-                ['/access', '地図 / access'],
-                ['/sns-accounts', 'SNS'],
+                ['/sns-accounts', 'Blog / SNS'],
                 ['/ninja-request', '参加申し込み / Join as a Ninja'],
                 ['/mentor-request', 'メンター申し込み / Join as a Mentor'],
+                ['/access', '地図 / access'],
               ] %}
               <li {% if this.is_child_of(href) %} class="nav-item active" {% else %} class="nav-item"{% endif
                 %}><a class="nav-link" href="{{ href|url }}">{{ title }}</a></li>
