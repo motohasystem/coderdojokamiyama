@@ -1,6 +1,14 @@
-title: コーダー道場神山
+_model: main-page
+---
+title: Welcome to CoderDojo神山
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+<div  style="text-align:center;margin:50px;"><img src="panel_s.jpg" width="500px"></div>
+
+こんにちは！　徳島県神山町 でプログラマーをしている本橋です。2018年12月17日より、参加費無料のプログラミング道場「CoderDojo Kamiyama (コーダー道場神山)」を始めました。
+
+プログラミングはあらゆるデジタルスキルに必要な基礎を養う入り口です。ゲームを作ってみたい子、3Dプリンタでおもちゃを作ってみたい子、パソコンを思い切りさわってみたい子も、皆さんお気軽に遊びに来てください。
+
+<a class="twitter-timeline" href="https://twitter.com/CdKamiyama?ref_src=twsrc%5Etfw">Tweets by CdKamiyama</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
