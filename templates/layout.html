@@ -59,11 +59,14 @@
           <ul class="nav navbar-nav">
             <li {% if this._path == '/' %} class="nav-item active" {% else %} class="nav-item" {% endif %}><a class="nav-link" href="{{ '/'|url }}">About</a></li>
               {% for href, title in [
+                ['/howtojoin', '参加の仕方 / How to join'],
+                ['/sns-accounts', 'SNS / Blog'],
+                ['/access', '地図 / access'],
                 ['/materials', '教材 / Materials'],
-                ['/sns-accounts', 'Blog / SNS'],
+                ['', '----'],
                 ['/ninja-request', '参加申し込み / Join as a Ninja'],
                 ['/mentor-request', 'メンター申し込み / Join as a Mentor'],
-                ['/access', '地図 / access'],
+                ['/contact', 'お問い合わせ / Contact'],
               ] %}
               <li {% if this.is_child_of(href) %} class="nav-item active" {% else %} class="nav-item"{% endif
                 %}><a class="nav-link" href="{{ href|url }}">{{ title }}</a></li>
@@ -76,7 +79,7 @@
   </div>
   <footer>
     {% block footer %}
-    &copy; Copyright 2018 CoderDojoKamiyama / Daisuke Motohashi{{ config.THEME_SETTINGS.user }}
+    &copy; Copyright 2018 CoderDojoKamiyama{{ config.THEME_SETTINGS.user }}
     {% endblock footer %}
   </footer>
   <!-- Bootstrap core JavaScript -->
