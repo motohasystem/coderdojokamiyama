@@ -2,6 +2,10 @@ _model: main-page
 ---
 title: Welcome to CoderDojo神山
 ---
+author: Daisuke Motohashi
+---
+user: Daisuke Motohashi
+---
 body:
 
 <div  style="text-align:center;margin:50px;"><img src="panel_s.jpg" width="500px"></div>
@@ -10,5 +14,5 @@ body:
 
 プログラミングはあらゆるデジタルスキルに必要な基礎を養う入り口です。ゲームを作ってみたい子、3Dプリンタでおもちゃを作ってみたい子、パソコンを思い切りさわってみたい子も、皆さんお気軽に遊びに来てください。
 
-<a class="twitter-timeline" href="https://twitter.com/CdKamiyama?ref_src=twsrc%5Etfw">Tweets by CdKamiyama</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" style="width:500px; text-align=center;"></script>
+<div style="text-align:center;"><a class="twitter-timeline" width="500px" height="650px" data-theme=”dark” href="https://twitter.com/CdKamiyama?ref_src=twsrc%5Etfw" >Tweets by CoderDojo神山</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" style="width:500px; text-align=center;"></script></div>
 
