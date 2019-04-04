@@ -1,6 +1,6 @@
 _model: main-page
 ---
-title: CoderDojo Kamiyama
+title: CoderDojo神山
 ---
 author: Daisuke Motohashi
 ---
@@ -8,12 +8,11 @@ user: Daisuke Motohashi
 ---
 body:
 
-<div  style="text-align:center;margin-bottom:50px;"><img src="sign_coderdojo.jpg" width="640px"></div>
+こんにちは！　徳島県神山町 でプログラマーをしている本橋です。2018年12月から参加費無料のプログラミング道場「CoderDojo Kamiyama (コーダー道場神山)」をここ神山町で始めました。
 
-こんにちは！　徳島県神山町 でプログラマーをしている本橋です。2018年12月から参加費無料のプログラミング道場「CoderDojo Kamiyama (コーダー道場神山)」を始めました。
+ゲームを作ってみたい子、3Dプリンタでおもちゃを作ってみたい子、パソコンを思い切りさわってみたい子も、皆さんプログラミングを通して、世の中にあふれるいろんなテクノロジーに挑戦してください。
 
-CoderDojoとは何なのかと気になる方はぜひこちらの資料やYoutubeをご覧ください。
-世界中で開催されていて、あちこちで子どもたちにプログラミングの楽しさを教える活動が広がっています。
+CoderDojoとは一体なんなのか？と気になる方はぜひこちらの資料やYoutubeにアクセスしてください。2011年にアイルランドのコーク市でスタートしたCoderDojoの活動が、世界中で子どもたちにプログラミングの楽しさを広めている様子が伝わってきます！
 
 #### CoderDojoとは
 
@@ -22,14 +21,14 @@ CoderDojoとは何なのかと気になる方はぜひこちらの資料やYoutu
 - [あなたがDojoに来る理由は何ですか？ - YouTube](https://www.youtube.com/watch?v=gLDue2xb1j8)
 
 
-プログラミングはあらゆるデジタルスキルに必要な基礎を養う入り口です。
-ゲームを作ってみたい子、3Dプリンタでおもちゃを作ってみたい子、パソコンを思い切りさわってみたい子も、皆さん遊びに来てみてください。
 
 参加方法については[参加の仕方ページ](/howtojoin/)をごらんください。
 
 <div style="text-align:center;"><a class="twitter-timeline" width="500px" height="650px" data-theme=”dark” href="https://twitter.com/CdKamiyama?ref_src=twsrc%5Etfw" >Tweets by CoderDojo神山</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" style="width:500px; text-align=center;"></script></div>
 
-僕らは徳島県で活動していますが、CoderDojoは日本中にあります。お近くの道場を見つけて遊びに行ってみてください。
+僕らは徳島県で活動していますが、CoderDojoは日本中にあります。ぜひこちらのリンクからお近くの道場を見つけて遊びに行ってみてください。
 
 [CoderDojo Japan - 子どものためのプログラミング道場](https://coderdojo.jp/)
+
+<div  style="text-align:center;margin-bottom:50px;"><img src="sign_coderdojo.jpg" width="640px"></div>
 
